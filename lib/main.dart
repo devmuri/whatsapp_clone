@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// atualizado
+
 class whatsapp extends StatefulWidget {
   const whatsapp({super.key});
 
@@ -57,8 +59,7 @@ class _whatsappState extends State<whatsapp> {
         backgroundColor: mainColor,
         actions: [
           IconButton(
-            onPressed: () {
-              },
+            onPressed: () {},
             icon: Icon(Icons.photo_camera),
           ),
           IconButton(

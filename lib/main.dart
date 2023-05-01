@@ -19,8 +19,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// atualizado
-
 class whatsapp extends StatefulWidget {
   const whatsapp({super.key});
 
